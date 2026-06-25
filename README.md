@@ -44,3 +44,4 @@ Ngrok
 
 E& AI enables marketing and retention teams to proactively identify at-risk customers, understand the primary reasons behind churn predictions, and apply targeted retention strategies. By combining predictive analytics with explainable AI and natural language processing, the system reduces manual analysis effort and supports data-driven customer retention decisions.
 # Business Value
+This project enables marketing and retention teams to proactively identify at-risk customers, understand the primary reasons behind churn predictions, and apply targeted retention strategies. By combining predictive analytics with explainable AI and natural language processing, the system reduces manual analysis effort and supports data-driven customer retention decisions.
